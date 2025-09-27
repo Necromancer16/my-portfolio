@@ -58,11 +58,10 @@ export default function App() {
   }, [dark])
 
   const skills = [
-    { name: "Canva", img: "https://cdn.worldvectorlogo.com/logos/canva-1.svg" },
+    { name: "Canva", img: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" },
     { name: "Adobe Photoshop", img: "https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" },
-    { name: "Adobe Premiere Pro", img: "https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-icon.svg" },
-    { name: "Plagiarism Detection", img: "https://cdn-icons-png.flaticon.com/512/4280/4280618.png" },
-    { name: "Social Media", img: "https://cdn-icons-png.flaticon.com/512/2111/2111463.png" },
+    { name: "Adobe Premiere Pro", img: "https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" },
+    { name: "Excel", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" },
   ]
 
   return (
@@ -297,7 +296,7 @@ export default function App() {
               linkedin.com/in/anava-bayu-nusantara
             </a>
           </p>
-          <p>Email: you@example.com</p>
+          <p>Email: anavabayu16@gmail.com</p>
         </motion.section>
 
         {/* Footer */}
