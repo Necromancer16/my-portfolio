@@ -145,7 +145,7 @@ export default function App() {
           <h2>About Me</h2>
           <p style={{ fontSize: "clamp(0.9rem, 2vw, 1.1rem)", lineHeight: 1.6 }}>
             Undergraduate student in <b>Biology Education</b> at the University of
-            Jember (GPA 3.71). Passionate about STEM education, technology
+            Jember. Passionate about STEM education, technology
             integration, and creative digital projects. Experienced in student
             organizations and content creation with tools such as Canva, Adobe
             Photoshop, and Premiere Pro.
