@@ -61,7 +61,7 @@ export default function App() {
     { name: "Canva", img: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" },
     { name: "Adobe Photoshop", img: "https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" },
     { name: "Adobe Premiere Pro", img: "https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" },
-    { name: "Excel", img: "https://png.pngtree.com/element_our/sm/20180627/sm_5b33460f04516.jpg" },
+    { name: "Excel", img: "https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" },
   ]
 
   return (
